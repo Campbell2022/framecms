@@ -1,0 +1,22 @@
+{
+  "name": "framecms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Campbell2022/framecms.git"
+  },
+  "keywords": [
+    "framecms,cms"
+  ],
+  "author": "Campbell2022",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Campbell2022/framecms/issues"
+  },
+  "homepage": "https://github.com/Campbell2022/framecms#readme"
+}
